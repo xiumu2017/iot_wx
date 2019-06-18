@@ -1,2 +1,8 @@
 # iot_wx
-An iot application based on wechat and Arduino
+An IOT application based on wechat and Arduino
+
+## features
+
+1. send temperature to your wechat
+2. query temperatur
+3. draw temperature change image
